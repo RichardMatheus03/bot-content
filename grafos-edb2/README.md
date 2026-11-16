@@ -6,7 +6,7 @@ Notebook da disciplina **EDB II (UFRN)**, **Grupo D**, para o Google Colab.
 - Mateus Ferreira Torres Galvão
 - Jefferson Deylane Costa dos Santos
 
-O arquivo `grafos_lista_matriz.ipynb` parte do notebook de exemplo do Jefferson (o cabeçalho `#jefferson - mateus -  Richard` permanece) e usa o grafo dos slides da aula.
+O arquivo `colab_base_jefferson.ipynb` é o notebook base do Jefferson. O arquivo `grafos_lista_matriz.ipynb` foi desenvolvido a partir dele (o cabeçalho `#jefferson - mateus -  Richard` permanece) e usa o grafo dos slides da aula.
 
 ## Grafo da aula
 
